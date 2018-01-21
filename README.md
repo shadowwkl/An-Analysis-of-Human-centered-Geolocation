@@ -7,6 +7,7 @@ Online social networks contain a constantly increasing amount of images - most o
 ## CNN Models
 ### Model info
 These models are trained by MatConvNet 1.0 Beta16. If the version you are using is Beta 17 or higher, before use the model, add:
-‘net = vl_simplenn_tidy(net);’
+> 
+`net = vl_simplenn_tidy(net)`
 ### Model link
 You can download the models at my homepage. 
