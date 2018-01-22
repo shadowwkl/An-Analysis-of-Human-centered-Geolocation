@@ -1,5 +1,5 @@
 # An-Analysis-of-Human-centered-Geolocation
-Kaili Wang    Yu-Hui Huang     Jose Oramas    Luc Van Gool    Tinne Tuytelaars
+Kaili Wang&nbsp&nbspYu-Hui Huang     Jose Oramas    Luc Van Gool    Tinne Tuytelaars
 >  
 WACV 2018 accepted
 > 
