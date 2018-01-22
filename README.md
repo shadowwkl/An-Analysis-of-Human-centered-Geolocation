@@ -1,5 +1,5 @@
 # An-Analysis-of-Human-centered-Geolocation
-Kaili Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yu-Hui Huang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jose Oramas](http://homes.esat.kuleuven.be/~joramas/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Luc Van Gool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinne Tuytelaars
+Kaili Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yu-Hui Huang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jose Oramas](http://homes.esat.kuleuven.be/~joramas/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Luc Van Gool](https://www.kuleuven.be/wieiswie/en/person/00011315)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/)
 >  
 WACV 2018 accepted
 > 
