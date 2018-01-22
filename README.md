@@ -22,12 +22,13 @@ You can download the models at my homepage.
 
 ## Citation
 K. Wang, Y. Huang, J. Oramas, L. Van Gool, and T. Tuytelaars. An Analysis of Human centered Geolocation WACV’18 (arXiv:1707.02905, 2018).
-		@inproceedings{joramas:WACVHumanCenteredGeolocation,
-  		author    = {Kaili Wang and Yu-Hui Huang and Jos{\'e} {Oramas M} and Luc {Van Gool}  and Tinne Tuytelaars},             
-  		title     = {An Analysis of Human-centered Geolocation},
-  		booktitle = {WACV},
-  		year      = {2018}
-		} 
+
+```@inproceedings{joramas:WACVHumanCenteredGeolocation,
+  ```author    = {Kaili Wang and Yu-Hui Huang and Jos{\'e} {Oramas M} and Luc {Van Gool}  and Tinne Tuytelaars},             
+  ```title     = {An Analysis of Human-centered Geolocation},
+  ```booktitle = {WACV},
+  ```year      = {2018}
+```} 
 
 
 
