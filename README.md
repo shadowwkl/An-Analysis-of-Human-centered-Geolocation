@@ -18,7 +18,7 @@ These models are trained by MatConvNet 1.0 Beta16. If the version you are using 
 > 
 `net = vl_simplenn_tidy(net)`
 ### Model link
-You can download the models at the project page. 
+You can download the models at the [project page](http://homes.esat.kuleuven.be/~kwang/projects/Human-Centered-Geolocation/). 
 
 ## Citation
 K. Wang, Y. Huang, J. Oramas, L. Van Gool, and T. Tuytelaars. An Analysis of Human centered Geolocation WACV’18 (arXiv:1707.02905, 2018).
