@@ -1,7 +1,7 @@
 # An-Analysis-of-Human-centered-Geolocation
 Kaili Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yu-Hui Huang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jose Oramas](http://homes.esat.kuleuven.be/~joramas/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Luc Van Gool](https://www.kuleuven.be/wieiswie/en/person/00011315)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/)
 >  
-WACV 2018 accepted
+To be presented @ WACV 2018.
 > 
 You can find the paper here:
 [An-Analysis-of-Human-centered-Geolocation](https://arxiv.org/abs/1707.02905)
@@ -18,7 +18,7 @@ These models are trained by MatConvNet 1.0 Beta16. If the version you are using 
 > 
 `net = vl_simplenn_tidy(net)`
 ### Model link
-You can download the models at my homepage. 
+You can download the models at the project page. 
 
 ## Citation
 K. Wang, Y. Huang, J. Oramas, L. Van Gool, and T. Tuytelaars. An Analysis of Human centered Geolocation WACV’18 (arXiv:1707.02905, 2018).
