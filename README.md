@@ -1,5 +1,5 @@
 # An-Analysis-of-Human-centered-Geolocation
-Kaili Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yu-Hui Huang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jose Oramas](http://homes.esat.kuleuven.be/~joramas/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Luc Van Gool](https://www.kuleuven.be/wieiswie/en/person/00011315)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/)
+[Kaili Wang](http://homes.esat.kuleuven.be/~kwang/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yu-Hui Huang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jose Oramas](http://homes.esat.kuleuven.be/~joramas/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Luc Van Gool](https://www.kuleuven.be/wieiswie/en/person/00011315)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/)
 >  
 To be presented @ WACV 2018.
 > 
@@ -18,7 +18,7 @@ These models are trained by MatConvNet 1.0 Beta16. If the version you are using 
 > 
 `net = vl_simplenn_tidy(net)`
 ### Model link
-You can download the models at the [project page](http://homes.esat.kuleuven.be/~kwang/projects/Human-Centered-Geolocation/). 
+You can download the models at the my [home page](http://homes.esat.kuleuven.be/~kwang/). 
 
 ## Citation
 If you use our models, or come up with some ideas from this paper, please cite as following:
