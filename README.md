@@ -37,3 +37,6 @@ K. Wang, Y. Huang, J. Oramas, L. Van Gool, and T. Tuytelaars. An Analysis of Hum
 
 ## Contact
 If you have any question, please contact kwang@esat.kuleuven.be
+
+## Acknowledgement
+This work was partially supported by the KU Leuven PDM Grant PDM/16/131, the KU Leuven GOA project CAMETRON, and a NVIDIA Academic Hardware Grant.
